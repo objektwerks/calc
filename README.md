@@ -1,6 +1,6 @@
 Calc
 ----
->Scala native calc app using FastParse and Scala 3.
+>Scala Native calc app using FastParse and Scala 3.
 
 >The code herein is ***derived*** from the FastParse docs.
 
